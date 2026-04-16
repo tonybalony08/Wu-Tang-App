@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		E7BEF91E2F914A9100462A11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E7BEF9052F914A8F00462A11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E7BEF90C2F914A9000462A11;
+			remoteInfo = "Wu-Tang App";
+		};
+		E7BEF9282F914A9100462A11 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = E7BEF9052F914A8F00462A11 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = E7BEF90C2F914A9000462A11;
+			remoteInfo = "Wu-Tang App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		E7BEF90D2F914A9000462A11 /* Wu-Tang App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wu-Tang App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7BEF91D2F914A9100462A11 /* Wu-Tang AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Wu-Tang AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E7BEF9272F914A9100462A11 /* Wu-Tang AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Wu-Tang AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		E7BEF90F2F914A9000462A11 /* Wu-Tang App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Wu-Tang App";
+			sourceTree = "<group>";
+		};
+		E7BEF9202F914A9100462A11 /* Wu-Tang AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Wu-Tang AppTests";
+			sourceTree = "<group>";
+		};
+		E7BEF92A2F914A9100462A11 /* Wu-Tang AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Wu-Tang AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E7BEF90A2F914A9000462A11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF91A2F914A9100462A11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF9242F914A9100462A11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		E7BEF9042F914A8F00462A11 = {
+			isa = PBXGroup;
+			children = (
+				E7BEF90F2F914A9000462A11 /* Wu-Tang App */,
+				E7BEF9202F914A9100462A11 /* Wu-Tang AppTests */,
+				E7BEF92A2F914A9100462A11 /* Wu-Tang AppUITests */,
+				E7BEF90E2F914A9000462A11 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		E7BEF90E2F914A9000462A11 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E7BEF90D2F914A9000462A11 /* Wu-Tang App.app */,
+				E7BEF91D2F914A9100462A11 /* Wu-Tang AppTests.xctest */,
+				E7BEF9272F914A9100462A11 /* Wu-Tang AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E7BEF90C2F914A9000462A11 /* Wu-Tang App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E7BEF9312F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang App" */;
+			buildPhases = (
+				E7BEF9092F914A9000462A11 /* Sources */,
+				E7BEF90A2F914A9000462A11 /* Frameworks */,
+				E7BEF90B2F914A9000462A11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				E7BEF90F2F914A9000462A11 /* Wu-Tang App */,
+			);
+			name = "Wu-Tang App";
+			packageProductDependencies = (
+			);
+			productName = "Wu-Tang App";
+			productReference = E7BEF90D2F914A9000462A11 /* Wu-Tang App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		E7BEF91C2F914A9100462A11 /* Wu-Tang AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E7BEF9342F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang AppTests" */;
+			buildPhases = (
+				E7BEF9192F914A9100462A11 /* Sources */,
+				E7BEF91A2F914A9100462A11 /* Frameworks */,
+				E7BEF91B2F914A9100462A11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E7BEF91F2F914A9100462A11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E7BEF9202F914A9100462A11 /* Wu-Tang AppTests */,
+			);
+			name = "Wu-Tang AppTests";
+			packageProductDependencies = (
+			);
+			productName = "Wu-Tang AppTests";
+			productReference = E7BEF91D2F914A9100462A11 /* Wu-Tang AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		E7BEF9262F914A9100462A11 /* Wu-Tang AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E7BEF9372F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang AppUITests" */;
+			buildPhases = (
+				E7BEF9232F914A9100462A11 /* Sources */,
+				E7BEF9242F914A9100462A11 /* Frameworks */,
+				E7BEF9252F914A9100462A11 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				E7BEF9292F914A9100462A11 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				E7BEF92A2F914A9100462A11 /* Wu-Tang AppUITests */,
+			);
+			name = "Wu-Tang AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "Wu-Tang AppUITests";
+			productReference = E7BEF9272F914A9100462A11 /* Wu-Tang AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E7BEF9052F914A8F00462A11 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					E7BEF90C2F914A9000462A11 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					E7BEF91C2F914A9100462A11 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = E7BEF90C2F914A9000462A11;
+					};
+					E7BEF9262F914A9100462A11 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = E7BEF90C2F914A9000462A11;
+					};
+				};
+			};
+			buildConfigurationList = E7BEF9082F914A8F00462A11 /* Build configuration list for PBXProject "Wu-Tang App" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E7BEF9042F914A8F00462A11;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = E7BEF90E2F914A9000462A11 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E7BEF90C2F914A9000462A11 /* Wu-Tang App */,
+				E7BEF91C2F914A9100462A11 /* Wu-Tang AppTests */,
+				E7BEF9262F914A9100462A11 /* Wu-Tang AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		E7BEF90B2F914A9000462A11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF91B2F914A9100462A11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF9252F914A9100462A11 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E7BEF9092F914A9000462A11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF9192F914A9100462A11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E7BEF9232F914A9100462A11 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		E7BEF91F2F914A9100462A11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E7BEF90C2F914A9000462A11 /* Wu-Tang App */;
+			targetProxy = E7BEF91E2F914A9100462A11 /* PBXContainerItemProxy */;
+		};
+		E7BEF9292F914A9100462A11 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = E7BEF90C2F914A9000462A11 /* Wu-Tang App */;
+			targetProxy = E7BEF9282F914A9100462A11 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		E7BEF92F2F914A9100462A11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		E7BEF9302F914A9100462A11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		E7BEF9322F914A9100462A11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Wu-Tang App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		E7BEF9332F914A9100462A11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Wu-Tang App/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		E7BEF9352F914A9100462A11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Wu-Tang App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Wu-Tang App";
+			};
+			name = Debug;
+		};
+		E7BEF9362F914A9100462A11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Wu-Tang App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Wu-Tang App";
+			};
+			name = Release;
+		};
+		E7BEF9382F914A9100462A11 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Wu-Tang App";
+			};
+			name = Debug;
+		};
+		E7BEF9392F914A9100462A11 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tonybalony.Wu-Tang-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Wu-Tang App";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E7BEF9082F914A8F00462A11 /* Build configuration list for PBXProject "Wu-Tang App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7BEF92F2F914A9100462A11 /* Debug */,
+				E7BEF9302F914A9100462A11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E7BEF9312F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7BEF9322F914A9100462A11 /* Debug */,
+				E7BEF9332F914A9100462A11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E7BEF9342F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7BEF9352F914A9100462A11 /* Debug */,
+				E7BEF9362F914A9100462A11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E7BEF9372F914A9100462A11 /* Build configuration list for PBXNativeTarget "Wu-Tang AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E7BEF9382F914A9100462A11 /* Debug */,
+				E7BEF9392F914A9100462A11 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E7BEF9052F914A8F00462A11 /* Project object */;
+}
